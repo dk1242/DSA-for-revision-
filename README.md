@@ -9,4 +9,7 @@
 7. [https://leetcode.com/problems/minimum-number-of-arrows-to-burst-balloons/description/](https://leetcode.com/problems/minimum-number-of-arrows-to-burst-balloons/description/)
 8. [https://leetcode.com/problems/basic-calculator/description](https://leetcode.com/problems/basic-calculator/description)
 9. [https://leetcode.com/problems/copy-list-with-random-pointer](https://leetcode.com/problems/copy-list-with-random-pointer)
-10. 
+10. [https://leetcode.com/problems/reverse-linked-list-ii](https://leetcode.com/problems/reverse-linked-list-ii)
+11. [https://leetcode.com/problems/reverse-nodes-in-k-group/description](https://leetcode.com/problems/reverse-nodes-in-k-group/)
+12. [https://leetcode.com/problems/swap-nodes-in-pairs](https://leetcode.com/problems/swap-nodes-in-pairs)
+13. 
