@@ -12,4 +12,7 @@
 10. [https://leetcode.com/problems/reverse-linked-list-ii](https://leetcode.com/problems/reverse-linked-list-ii)
 11. [https://leetcode.com/problems/reverse-nodes-in-k-group/description](https://leetcode.com/problems/reverse-nodes-in-k-group/)
 12. [https://leetcode.com/problems/swap-nodes-in-pairs](https://leetcode.com/problems/swap-nodes-in-pairs)
-13. 
+13. [https://leetcode.com/problems/lru-cache](https://leetcode.com/problems/lru-cache)
+14. [https://leetcode.com/problems/construct-binary-tree-from-inorder-and-postorder-traversal](https://leetcode.com/problems/construct-binary-tree-from-inorder-and-postorder-traversal)
+15. [https://leetcode.com/problems/sum-root-to-leaf-numbers/solutions/1556417/c-python-recursive-iterative-dfs-bfs-morris-traversal-o-1-beats-100/](https://leetcode.com/problems/sum-root-to-leaf-numbers/solutions/1556417/c-python-recursive-iterative-dfs-bfs-morris-traversal-o-1-beats-100/)
+16. []()
