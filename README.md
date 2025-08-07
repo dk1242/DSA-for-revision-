@@ -20,3 +20,7 @@
 18. [https://leetcode.com/problems/ipo/](https://leetcode.com/problems/ipo/)
 19. [https://leetcode.com/problems/find-k-pairs-with-smallest-sums](https://leetcode.com/problems/find-k-pairs-with-smallest-sums)
 20. [https://leetcode.com/problems/find-median-from-data-stream/](https://leetcode.com/problems/find-median-from-data-stream/)
+21. [https://leetcode.com/problems/find-median-from-data-stream](https://leetcode.com/problems/find-median-from-data-stream)
+22. [https://leetcode.com/problems/single-number-ii/solutions/3714928/bit-manipulation-c-java-python-beginner-friendly/](https://leetcode.com/problems/single-number-ii/solutions/3714928/bit-manipulation-c-java-python-beginner-friendly/)
+23. [https://leetcode.com/problems/word-break/description/](https://leetcode.com/problems/word-break/description/)
+24. 
